@@ -13,6 +13,9 @@
         <module>Prototype</module>
         <module>factoryPattern</module>
         <module>Builder</module>
+        <module>Proxy</module>
+        <module>Adapter</module>
+        <module>Bridge</module>
     </modules>
 
 
