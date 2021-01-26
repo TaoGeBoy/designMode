@@ -22,6 +22,7 @@
         <module>Composite Pattern</module>
         <module>TemplateMethod</module>
         <module>Strategy</module>
+        <module>Command</module>
     </modules>
 
 
