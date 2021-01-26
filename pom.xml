@@ -24,6 +24,7 @@
         <module>Strategy</module>
         <module>Command</module>
         <module>ChainOfResponsibility</module>
+        <module>State</module>
     </modules>
 
 
