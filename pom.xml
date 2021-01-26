@@ -23,6 +23,7 @@
         <module>TemplateMethod</module>
         <module>Strategy</module>
         <module>Command</module>
+        <module>ChainOfResponsibility</module>
     </modules>
 
 
