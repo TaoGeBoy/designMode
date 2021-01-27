@@ -25,6 +25,7 @@
         <module>Command</module>
         <module>ChainOfResponsibility</module>
         <module>State</module>
+        <module>Observer</module>
     </modules>
 
 
