@@ -29,6 +29,7 @@
         <module>Mediator</module>
         <module>Iterator</module>
         <module>Visitor</module>
+        <module>Memento</module>
     </modules>
 
 
